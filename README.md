@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a controlar bons hábitos.
 
-- [Visite o projeto online](https://maykbrito.github.io/nlw-setup)
+- [Visite my site Online](https://gabriel-bitemcourt.github.io/nlw_setup/)
 
 ## 🔖 Layout
 
